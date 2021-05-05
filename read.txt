@@ -1,0 +1,1 @@
+This is my light-house project on git usage. Say with me while I put you through all the necessary lines that you need to know about this project. 
