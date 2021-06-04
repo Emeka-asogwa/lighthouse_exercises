@@ -1,0 +1,3 @@
+Just checking this out!
+
+This is my tutorial note on vim
